@@ -1,0 +1,3 @@
+from generate.data import create_thailand_zip_code_csv_file
+
+create_thailand_zip_code_csv_file()
